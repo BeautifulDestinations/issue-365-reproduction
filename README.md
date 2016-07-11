@@ -1,4 +1,4 @@
-Small test case for recreating a stack/ghcjs bug.
+Small test case for recreating https://github.com/commercialhaskell/stack/issues/2365
 
 With a clean ~/.stack, ~/.ghc, ~/.ghcjs, run:
 
